@@ -1,2 +1,2 @@
 # JavaScript-Timers
-Creating a simple time with vanilla JS
+Creating a simple timer with vanilla JS
